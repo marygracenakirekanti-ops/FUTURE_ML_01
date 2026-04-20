@@ -46,7 +46,7 @@ This project demonstrates how data visualization and forecasting can be used to 
 
 ---
 ## 🎥 Project Demo
-[watch demo video](https://drive.google.com/file/d/119O3WLkSvByTYAAvU3skh0GuQ8792Onx/view?usp=sharing)
+[watch demo video](https://drive.google.com/file/d/1F2BRiSDeJan62cMn2cXfYZUhWWxBkGK2/view?usp=sharing)
 
 ## 👤 Author
 - N..MARY GRACE
