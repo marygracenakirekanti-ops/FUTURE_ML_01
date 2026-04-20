@@ -45,8 +45,6 @@ To build a sales forecasting model that helps in understanding past trends and p
 This project demonstrates how data visualization and forecasting can be used to extract meaningful insights from business data. It helps in predicting future sales and supports effective decision-making.
 
 ---
-## 🎥 Project Demo
-[watch demo video](https://drive.google.com/file/d/1F2BRiSDeJan62cMn2cXfYZUhWWxBkGK2/view?usp=sharing)
 
 ## 👤 Author
 - N..MARY GRACE
